@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 
 """
-DOWNLOADER_MIDDLEWARES for detection antiddos protection and browser checring
+DOWNLOADER_MIDDLEWARES for detection antiddos protection and browser checkng
 
 """
 from scrapy.http import Response
